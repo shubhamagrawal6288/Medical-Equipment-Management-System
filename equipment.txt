@@ -1,0 +1,4 @@
+1	injection	90
+2	medicin	11
+3	sline	32
+4	icu	199
